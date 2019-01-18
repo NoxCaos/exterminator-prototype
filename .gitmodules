@@ -1,0 +1,3 @@
+[submodule "Assets/euclase"]
+	path = Assets/euclase
+	url = https://github.com/NoxCaos/euclase
